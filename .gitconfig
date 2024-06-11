@@ -1,0 +1,10 @@
+[user]
+	name = TanokuRukushi
+	email = 154442612+tanokurukushi@users.noreply.github.com
+[init]
+	defaultBranch = main
+[alias]
+	co = commit
+	st = status
+	br = branch
+	ch = checkout
